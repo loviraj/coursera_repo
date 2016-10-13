@@ -1,0 +1,11 @@
+Sample
+
+# include<math.h>
+
+main()
+{
+int x,y;
+
+sum = x+y;
+
+}
